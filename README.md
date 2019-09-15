@@ -1,6 +1,6 @@
-# connect
+# connect (WIP)
 
-A new Flutter project.
+A messaging app made with Flutter
 
 ## Getting Started
 

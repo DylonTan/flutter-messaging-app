@@ -1,6 +1,6 @@
 # connect (WIP)
 
-A messaging app made with Flutter
+A cross-platform messaging app made with Flutter
 
 ## Getting Started
 

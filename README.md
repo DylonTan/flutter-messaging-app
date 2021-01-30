@@ -1,4 +1,4 @@
-## Connect Messaging App
+## Fluttter Messaging App
 A cross-platform messaging app made with Flutter
 
 ## Getting Started
